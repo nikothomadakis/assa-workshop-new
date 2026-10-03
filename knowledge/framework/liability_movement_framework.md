@@ -11,6 +11,8 @@ Investigate the product and period in the question. The supplied extracts are pr
 
 Obtain opening, closing and all movement components using get_movement. Calculate net movement as closing less opening. Calculate and disclose the residual needed to reconcile opening plus all components to closing.
 
+**Claims presentation convention:** Add the absolute claims variance in the movement bridge; retain its original sign in the source evidence.
+
 Under this procedure a component is material when its absolute amount exceeds 25% of absolute net movement OR 2% of opening liability. Apply strict greater-than comparisons. State both thresholds and each component's classification. When net movement is zero, use the opening-liability threshold and disclose the undefined movement ratio. Rank components other than expected_change by absolute amount.
 
 Investigate experience drivers for material claims, lapse and expense components. Amounts that do not meet this procedure's materiality rule need no further driver investigation on this initial pass. Always describe new business and its measured mix.
