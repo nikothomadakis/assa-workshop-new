@@ -2,6 +2,8 @@
 
 ## Import and set up the workflow
 
+Need a workshop API key? Open **[Workshop key access](access/README.md)** and use the password supplied by the facilitator.
+
 Open **[ASSA-SINGLE-IMPORT.json](ASSA-SINGLE-IMPORT.json)**, copy the complete JSON and paste it into a new, empty n8n workflow. Alternatively download the JSON and choose **Import from File** from the workflow menu.
 
 1. Select the same Anthropic credential in **Investigator Model**, **HAF Model** and **Report Model**.
